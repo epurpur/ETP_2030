@@ -62,5 +62,5 @@ Google makes things easy to use. Luckily they have created [Google Scholar](http
 
 Now, you can browse for articles in basically the same way you would for a normal google search.
 
-## Helpful Buttons
+#### Helpful Google Scholar Tricks
 If you find an article(s) that might be good for you paper, you can easily find similar results.
