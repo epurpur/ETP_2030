@@ -6,7 +6,7 @@ Erich Purpur
 ep9k@virginia.edu
 
 Christine Slaughter
-cs7ww
+cs7ww@virginia.edu
 ```
 
 ## What we do:
