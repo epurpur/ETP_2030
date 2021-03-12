@@ -31,7 +31,7 @@ not affiliated with us.
 ### UVA Libraries during covid
 ```
 At the moment only two of our physical buildings are open, Clemons and Brown Libraries, and we have a limited 
-number of staff and capacity for patrons. Library hours [can be found here](https://www.library.virginia.edu/hours).
+number of staff and capacity for patrons. Library hours are found here: https://www.library.virginia.edu/hours.
 Also, our Main library (formerly Alderman Library) is being renovated.
 ```
 
