@@ -100,6 +100,8 @@ more easily accessible to you.
 
 ### Natural Science
 * [Environmental Science](https://guides.lib.virginia.edu/envsci)
+* [Biology](https://guides.lib.virginia.edu/biology)
+* [Engineering Systems & Environment](https://guides.lib.virginia.edu/ese)
 
 ### Humanities
 The Humanities are very wide ranging but here are a few that might be helpful
@@ -114,8 +116,6 @@ The Humanities are very wide ranging but here are a few that might be helpful
 ### Social Science
 Social Sciences are also wide ranging but here are several that may be useful
 
-* [Biology](https://guides.lib.virginia.edu/biology)
-* [Engineering Systems & Environment](https://guides.lib.virginia.edu/ese)
 * [Politics](https://guides.lib.virginia.edu/politics)
 * [Psychology](https://guides.lib.virginia.edu/psychology)
 * [Sociology](https://guides.lib.virginia.edu/sociology)
