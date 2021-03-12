@@ -131,3 +131,9 @@ This guide shows you the way to find many law and regulation related documents
 * [Government Resources in General](https://guides.lib.virginia.edu/findinggovinfo)
 More generalized content
 
+* [EPA Publications](https://www.epa.gov/nscep)
+
+* [NOAA Publications](https://libguides.library.noaa.gov/noaapubs)
+
+* [USDA Publications](https://www.nal.usda.gov/main/publications)
+
